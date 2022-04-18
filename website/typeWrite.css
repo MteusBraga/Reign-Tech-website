@@ -1,0 +1,40 @@
+p{
+	font-family: Trebuchet MS;
+	font-size: 17px;
+	border-spacing: 3px;
+	text-indent: 2em;
+}
+img.float-left{
+	float: left;
+	margin: 0 15px 10px 0;
+}
+h2{
+	font-size:2em;
+	font-family: Trebuchet MS;
+}
+.title-aside{
+	font-size: 27px;
+}
+h3{
+	font-family: Trebuchet MS;	
+	font-size: 25px;
+}
+p.float-right{
+	float: right;
+}
+span.footer{
+	color: white;
+	font-family: Trebuchet MS;
+	font-size: 16px;
+}
+h2.title-center{
+	text-align: center;
+}
+a.footer{
+	color: black;
+}
+p.p1_soft{ 
+	font-family:Trebuchet MS;
+	font-size: 17px;
+	float-right
+  }
